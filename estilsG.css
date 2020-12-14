@@ -7,6 +7,8 @@
 }
 body{
     text-align: center;
+    animation-name: PP;
+    animation-duration: 1s;
 }
 div.container{
     max-width: 900px;
@@ -131,6 +133,15 @@ padding-left: 20px;
     }
     
 }
+@keyframes PP{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
 
 footer{
     
@@ -146,6 +157,8 @@ footer{
         }
         body{
             text-align: center;
+            animation-name: PP;
+    animation-duration: 1s;
             
         }
         div.container{

@@ -6,6 +6,8 @@
 }
 body{
     text-align: center;
+    animation-name: PP;
+    animation-duration: 1s;
 }
 div.container{
     max-width: 900px;
@@ -88,7 +90,15 @@ footer{
     clear: both;
     }
 
-    
+    @keyframes PP{
+        0%{
+            opacity: 0;
+        }
+        100%{
+            opacity: 1;
+        }
+        
+    }
 
 .orbita{
   left: 50%;
@@ -169,6 +179,8 @@ footer{
         }
         body{
             text-align: center;
+            animation-name: PP;
+    animation-duration: 1s;
             
         }
         div.container{

@@ -6,6 +6,8 @@
 }
 body{
     text-align: center;
+    animation-name: PP;
+    animation-duration: 1s;
 }
 div.container{
     max-width: 900px;
@@ -109,7 +111,15 @@ footer{
     border-top-style:groove ;
     clear: both;
     }
-
+    @keyframes PP{
+        0%{
+            opacity: 0;
+        }
+        100%{
+            opacity: 1;
+        }
+        
+    }
    
       
     @media screen and (max-width:400px){
@@ -121,6 +131,8 @@ footer{
         }
         body{
             text-align: center;
+            animation-name: PP;
+    animation-duration: 1s;
             
         }
         div.container{
