@@ -1,11 +1,11 @@
 window.onload = function () {
 let dades = {
     article: [
-        { imatge: "/FOTOS/Equip recerca de la Silvia.png", titol: 'Equip recerca de la Silvia' },
-        { imatge: "/FOTOS/Premio Fundación Princesa de Girona Investigación Científica   2016.jpg", titol: 'Premio Fundación Princesa de Girona Investigación Científica 2016' },
-        { imatge: "/FOTOS/Premio Fundación Princesa de Girona Investigación Científica   2016 2.jpg", titol: 'Premio Fundación Princesa de Girona Investigación Científica 2016' },
-        { imatge: "/FOTOS/Sílvia Osuna Premi FPdGi de Recerca Científica 2016.jpg", titol: 'Sílvia Osuna Premi FPdGi de Recerca Científica 2016', link: 'https://www.youtube.com/watch?v=VYH4ti4qUOA' },
-        { imatge: "/FOTOS/1280px-YouTube_Logo.svg.png" }
+        { imatge: "FOTOS/Equip recerca de la Silvia.png", titol: 'Equip recerca de la Silvia' },
+        { imatge: "FOTOS/Premio Fundación Princesa de Girona Investigación Científica   2016.jpg", titol: 'Premio Fundación Princesa de Girona Investigación Científica 2016' },
+        { imatge: "FOTOS/Premio Fundación Princesa de Girona Investigación Científica   2016 2.jpg", titol: 'Premio Fundación Princesa de Girona Investigación Científica 2016' },
+        { imatge: "FOTOS/Sílvia Osuna Premi FPdGi de Recerca Científica 2016.jpg", titol: 'Sílvia Osuna Premi FPdGi de Recerca Científica 2016', link: 'https://www.youtube.com/watch?v=VYH4ti4qUOA' },
+        { imatge: "FOTOS/1280px-YouTube_Logo.svg.png" }
     ],
 }
 
